@@ -1,0 +1,21 @@
+{
+  "crops": {
+    "Mango": ["Cambodia mango market", "Cambodia mango export", "Cambodia mango price", "Cambodia mango processing", "global mango market", "mango climate risk"],
+    "Cashew": ["Cambodia cashew market", "Cambodia cashew export", "Cambodia cashew price", "Cambodia cashew processing", "global cashew market", "cashew nut price"],
+    "Rice": ["Cambodia rice market", "Cambodia rice export", "Cambodia paddy price", "Cambodia rice production", "global rice market", "rice climate risk"],
+    "Vegetables": ["Cambodia vegetable market", "Cambodia vegetable price", "Cambodia vegetable farmers", "Cambodia vegetable supply chain", "global vegetable market", "fresh produce supply chain"]
+  },
+  "topics": {
+    "production": ["production", "harvest", "yield", "cultivation", "planting"],
+    "price": ["price", "cost", "inflation", "farmgate"],
+    "export": ["export", "shipment", "trade", "market access"],
+    "import": ["import"],
+    "market demand": ["demand", "market", "buyer", "consumer"],
+    "processing": ["processing", "factory", "value chain", "packaging"],
+    "policy": ["policy", "ministry", "government", "strategy", "regulation"],
+    "investment": ["investment", "loan", "finance", "private sector"],
+    "climate risk": ["climate", "drought", "flood", "rainfall", "heat", "storm"],
+    "pest/disease": ["pest", "disease", "outbreak", "insect"],
+    "GHG/sustainability": ["emission", "methane", "carbon", "sustainable", "greenhouse gas"]
+  }
+}
