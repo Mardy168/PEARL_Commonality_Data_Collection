@@ -1,7 +1,1 @@
-pandas
-requests
-feedparser
-openpyxl
-python-docx
-google-api-python-client
-google-auth
+
